@@ -4,4 +4,4 @@ Second Test
 
 Made following changes
 
-test update
+test update for conflict 1
